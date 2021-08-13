@@ -16,7 +16,7 @@
  </li>
 </ul>
 
-#### in my personal projects I use:
+#### in my personal projects and games I use:
 <ul>
  <li>
   Unity
