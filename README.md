@@ -1,7 +1,34 @@
-## ALTERAR
-#### ALTERAR
+## Hi, my name is Marcos Augusto, I am a full-stack developer 💻🎮
+#### Currently working at Alta Soluções and studying systems analysis and development in college.
+#### I work with:
+<ul>
+ <li>
+  C#
+ </li>
+  <li>
+  React 
+ </li>
+  <li>
+  Javascript
+ </li>
+  <li>
+  Typescript
+ </li>
+</ul>
 
-##
+#### in my personal projects I use:
+<ul>
+ <li>
+  Unity
+ </li>
+  <li>
+  C#
+ </li>
+  <li>
+  Python
+ </li>
+</ul>
+
 
  <div>
   <a href="https://github.com/luiys">
@@ -13,8 +40,14 @@
     <img align="center" alt="MARCOS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
     <img align="center" alt="MARCOS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
     <img align="center" alt="MARCOS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="LG-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="MARCOS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="MARCOS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="MARCOS-CSHARP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="MARCOS-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+    <img align="center" alt="MARCOS-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  
+
+
   </div>
   
   ##
