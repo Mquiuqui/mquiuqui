@@ -42,10 +42,16 @@
     <div align="center">
           <a href="https://github.com/Mquiuqui">
           <img height="200em" src="https://github-readme-stats-mquiuqui-pi.vercel.app/api?username=mquiuqui&count_private=true&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-          <img height="200em" src="https://github-readme-stats-mquiuqui-pi.vercel.app/api/top-langs/?username=mquiuqui&hide=HTML,CSS&count_private=true&layout=compact&langs_count=7&theme=react"/>
+          <img height="200em" src="https://github-readme-stats-mquiuqui-pi.vercel.app/api/top-langs/?username=mquiuqui&hide=HTML,CSS,PHP&count_private=true&layout=compact&langs_count=7&theme=react"/>
   
 
 </div>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mquiuqui/mquiuqui/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <hr/>
