@@ -10,7 +10,7 @@
  
  🌱 **Fullstack Developer** since **2021**.
  
- 🔭 I’m currently working on **Alta Soluções**
+ 🔭 I’m currently working on **AVANADE**
 
  💬 I constantly seek to improve myself and respect others, always giving my best.
  
